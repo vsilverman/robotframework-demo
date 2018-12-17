@@ -3,7 +3,7 @@ This repo shows sample of automating the testing of localhost site using robotfr
 
 ## Steps to Execute This Sample
 
--	Clone this sample by using e.g. the following command
+-	After forking this sample clone it by using e.g. the following command
 
 			git clone <git-address-of-this-repo>
 
